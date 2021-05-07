@@ -1,4 +1,4 @@
-package com.example.custom.demo.service;
+package com.example.dubbo.demo.service;
 
 public interface DemoService {
 
